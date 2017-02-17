@@ -17,8 +17,6 @@ allprojects {
 }
 
 apply plugin: 'groovy'
-//apply from: 'bintray.gradle'
-//apply from: 'binlocal.gradle'
 
 dependencies {
     compile gradleApi()

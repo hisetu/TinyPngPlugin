@@ -23,5 +23,5 @@ apply plugin: 'groovy'
 dependencies {
     compile gradleApi()
     compile localGroovy()
-    compile 'com.tinify:tinify:1.5.1'
+    compile 'com.tinify:tinify:1.5.0'
 }
